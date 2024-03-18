@@ -1,0 +1,23 @@
+{
+  "name": "ocha33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grxkun/ocha.git"
+  },
+  "keywords": [
+    "ocha",
+    "tea"
+  ],
+  "author": "grxkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grxkun/ocha/issues"
+  },
+  "homepage": "https://github.com/grxkun/ocha#readme"
+}
